@@ -1,0 +1,4 @@
+repository "HCP Student@paarass@cloud"
+  path "/"
+    br "/main"
+    co "/main"

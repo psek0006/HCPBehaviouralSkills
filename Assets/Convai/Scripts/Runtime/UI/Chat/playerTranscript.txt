@@ -1,0 +1,38 @@
+Riley: Hi there, I had an appointment for 12:30, I'm Riley, I'm just going to take a seat for now.
+Player: um,
+Player: Um, hi.
+Player: Um,
+Player: Um, hi
+Player: Um, hi there, Riley.
+Riley: Hi, how are you doing today?
+Player: Hi.
+Player: Hi there.
+Player: Hi there. Ryle
+Player: Hi there, Riley.
+Player: Hi
+Player: hi there,
+Player: Hi there. Riley,
+Player: Hi there Riley.
+Player: Hi there Riley. Could
+Player: Hi there Riley. Could I
+Player: Hi there Riley. Could I get
+Player: Hi there Riley. Could I get some
+Player: Hi there Riley. Could I get some details
+Player: Hi there Riley. Could I get some details off
+Player: Hi there Riley. Could I get some details off you
+Player: Hi there Riley. Could I get some details off you please?
+Riley: What details do you need?
+Player: could I get your date of birth please?
+Riley: Sure, my date of birth is December 16, 2000.
+Riley: Sorry, but what do you need all this information for?
+Player: This information will be stored and given to the government
+Riley: Oh, that sounds a bit concerning.
+Riley: Is it really necessary for my information to be shared with the government?
+Player: Yes, it is necessary to ensure your medical report is kept up to date
+Riley: Alright, I understand.
+Riley: Is there anything else you'd need from me?
+Player: how are you feeling now?
+Riley: I'm feeling a bit anxious, to be honest.
+Riley: It's not every day I find myself in a hospital setting.
+Riley: But I'm managing.
+Riley: Thanks for asking.
